@@ -460,9 +460,9 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    "I created a poll about future career paths and was
-                    surprised by the results. The platform encourages critical
-                    thinking and has helped me make better decisions."
+                    I created a poll about future career paths and was surprised
+                    by the results. The platform encourages critical thinking
+                    and has helped me make better decisions.
                   </p>
                 </CardContent>
               </Card>
