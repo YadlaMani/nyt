@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 
-import { Button } from "@/components/ui/button";
 import { ModeToggle } from "./ui/mode-toggle";
 import { ConnectButton } from "thirdweb/react";
 import { client, wallets } from "@/utils/thridWebClient";

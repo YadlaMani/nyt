@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
+
 import {
   ArrowRight,
   Clock,
@@ -412,9 +412,9 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    "I've won rewards three times by trusting my instincts
+                    I ve won rewards three times by trusting my instincts
                     instead of following the crowd. Not Your Type has taught me
-                    to value my unique perspective."
+                    to value my unique perspective.
                   </p>
                 </CardContent>
               </Card>
@@ -436,9 +436,9 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground">
-                    "The real-time voting data is addictive to watch. I've
-                    learned so much about group psychology and how to spot
-                    opportunities where the majority might be wrong."
+                    The real-time voting data is addictive to watch. Ive learned
+                    so much about group psychology and how to spot opportunities
+                    where the majority might be wrong.
                   </p>
                 </CardContent>
               </Card>
