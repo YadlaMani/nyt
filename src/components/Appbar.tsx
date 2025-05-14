@@ -27,6 +27,7 @@ export function Appbar() {
 
       {/* Desktop Navigation */}
       <header className="hidden md:flex items-center gap-4">
+        <Link href="/allmarkets">Dashboard</Link>
         <ModeToggle />
         <ConnectButton
           client={client}
