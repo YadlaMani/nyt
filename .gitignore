@@ -9,6 +9,10 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+cache/
+out/
+
+yarn.lock
 
 # testing
 /coverage
