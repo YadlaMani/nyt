@@ -4,7 +4,8 @@
 ## Demo 
 
 
-https://github.com/user-attachments/assets/ccb297fb-8013-4b49-8bb3-f6d8e135a8d2
+Uploading Not Your type demo.mp4…
+
 
 
 ## Features
