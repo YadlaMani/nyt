@@ -1,6 +1,11 @@
 # Not Your Type
 
 **Not Your Type** is a web application for prediction markets and social polling, where users are rewarded for thinking differently. Built with Next.js, TypeScript, and thirdweb, it lets you participate in or create polls, vote, and earn rewards for picking the least popular option.
+## Demo 
+
+
+https://github.com/user-attachments/assets/ccb297fb-8013-4b49-8bb3-f6d8e135a8d2
+
 
 ## Features
 
