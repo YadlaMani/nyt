@@ -4,8 +4,19 @@
 ## Demo 
 
 
-Uploading Not Your type demo.mp4…
 
+https://github.com/user-attachments/assets/79607bad-a0b5-4eda-aae7-42b64029fc33
+
+
+
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/21224168-3aff-4629-8334-fdf1c78a4942)
+![image](https://github.com/user-attachments/assets/53b717c5-739b-4d0f-b132-9e31e6ba892c)
+![image](https://github.com/user-attachments/assets/86197679-bb67-4d31-9621-223a83f0367b)
+![image](https://github.com/user-attachments/assets/f84e8591-6e3b-4180-b592-a834a491ee40)
+![image](https://github.com/user-attachments/assets/baa0d1c5-a14f-468d-831f-bfee778093d6)
+![image](https://github.com/user-attachments/assets/151fbc45-fc6a-4d8d-ae60-08dbbcfece7e)
 
 
 ## Features
