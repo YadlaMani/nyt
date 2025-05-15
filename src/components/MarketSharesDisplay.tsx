@@ -69,24 +69,25 @@ export function MarketSharesDisplay({
 
     return (
         <div className="flex flex-col gap-2">
-            {/* <div className="w-full text-sm text-muted-foreground">
-                Your shares:
+        {(winnings.A > 0 || winnings.B > 0) && (
+          <div className="flex flex-col gap-1">
+            <div className="text-xs text-muted-foreground">Your Shares:</div>
+            <div className="grid grid-cols-2 gap-2">
+              <Badge variant="secondary">
                 {market.optionA} : {Math.floor(parseInt(toEther(sharesBalance?.optionAShares)))}
+              </Badge>
+              <Badge variant="secondary">
                 {market.optionB} : {Math.floor(parseInt(toEther(sharesBalance?.optionBShares)))}
+              </Badge>
+              <Badge variant="secondary">
                 {market.optionC} : {Math.floor(parseInt(toEther(sharesBalance?.optionCShares)))}
+              </Badge>
+              <Badge variant="secondary">
                 {market.optionD} : {Math.floor(parseInt(toEther(sharesBalance?.optionDShares)))}
-            </div> */}
-            {(winnings.A > 0 || winnings.B > 0) && (
-                <div className="flex flex-col gap-1">
-                    <div className="text-xs text-muted-foreground">Your Shares:</div>
-                    <div className="flex gap-2">
-                        <Badge variant="secondary"> {market.optionA} : {Math.floor(parseInt(toEther(sharesBalance?.optionAShares)))}</Badge>
-                        <Badge variant="secondary">{market.optionB} : {Math.floor(parseInt(toEther(sharesBalance?.optionBShares)))}</Badge>
-                        <Badge variant="secondary">{market.optionC} : {Math.floor(parseInt(toEther(sharesBalance?.optionCShares)))}</Badge>
-                        <Badge variant="secondary">{market.optionD} : {Math.floor(parseInt(toEther(sharesBalance?.optionDShares)))}</Badge>
-                    </div>
-                </div>
-            )}
-        </div>
+              </Badge>
+            </div>
+          </div>
+        )}
+      </div>
     );
 }
